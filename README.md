@@ -1,5 +1,5 @@
 # BIGMart Sales
-<img src="https://github.com/Bayunova28/Big_Mart_Sales/blob/master/cover.jpg" height="500" width="1100">
+<img src="https://github.com/Bayunova28/Big_Mart_Sales/blob/master/cover.jpg" height="450" width="1100">
 
 ## Background
 <p align=justify>BIGmart is one of the largest hypermarkets and supermarkets chain in the UAE. The brand was launched in the region in 2007 as a family business, aiming 
@@ -13,7 +13,7 @@ BIGmart is dedicated to rewarding its loyal customers and providing access to a 
 customer’s journey with BIGmart.<p>
 
 ## Relational Database
-<img src="https://github.com/Bayunova28/Big_Mart_Sales/blob/master/relational-database.png" height="500" width="1100">
+<img src="https://github.com/Bayunova28/Big_Mart_Sales/blob/master/relational-database.png" height="450" width="1100">
 
 ## Additional Measure
 ```sql
@@ -21,7 +21,7 @@ Sales Growth (%) =
 CALCULATE(DIVIDE(SUM(Sales[Sales]), SUM(Sales[MRP]), 0))
 ```
 ## Dashboard
-<img src="https://github.com/Bayunova28/Big_Mart_Sales/blob/master/dashboard-report.png" height="550" width="1100">
+<img src="https://github.com/Bayunova28/Big_Mart_Sales/blob/master/dashboard-report.png" height="500" width="1100">
 
 ## Acknowledgement
 Dataset Source : [Kaggle](https://www.kaggle.com/datasets/akashdeepkuila/big-mart-sales)
