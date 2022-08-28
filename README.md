@@ -18,10 +18,10 @@ customer’s journey with BIGmart.<p>
 ## Additional Measure
 ```sql
 Sales Growth (%) = 
-CALCULATE(DIVIDE(SUM(Sales[Sales]), SUM(Sales[MRP]), 0))
+CALCULATE(DIVIDE(SUM(Sales[MRP]), SUM(Sales[Sales]), 0))
 ```
 ## Dashboard
-<img src="https://github.com/Bayunova28/Big_Mart_Sales/blob/master/dashboard-report.png" height="500" width="1100">
+<img src="https://github.com/Bayunova28/Big_Mart_Sales/blob/master/dashboard.png" height="500" width="1100">
 
 ## Acknowledgement
 Dataset Source : [Kaggle](https://www.kaggle.com/datasets/akashdeepkuila/big-mart-sales)
