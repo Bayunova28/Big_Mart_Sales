@@ -16,7 +16,7 @@ customer’s journey with BIGmart.<p>
 <img src="https://github.com/Bayunova28/Big_Mart_Sales/blob/master/relational-database.png" height="450" width="1100">
 
 ## Data Analysis Expressions (DAX) Calculation
-```sql
+```
 Sales Growth (%) = 
 CALCULATE(DIVIDE(SUM(Sales[MRP]), SUM(Sales[Sales]), 0))
 ```
