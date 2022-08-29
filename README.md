@@ -1,4 +1,4 @@
-# BIGMart Sales
+# Big Mart Sales
 <img src="https://github.com/Bayunova28/Big_Mart_Sales/blob/master/cover.jpg" height="450" width="1100">
 
 ## Background
